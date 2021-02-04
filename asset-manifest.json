@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/scan-shit-coin/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/scan-shit-coin/static/js/main.8f5bba9f.chunk.js",
+    "main.js.map": "/scan-shit-coin/static/js/main.8f5bba9f.chunk.js.map",
+    "runtime-main.js": "/scan-shit-coin/static/js/runtime-main.d4f15d03.js",
+    "runtime-main.js.map": "/scan-shit-coin/static/js/runtime-main.d4f15d03.js.map",
+    "static/css/2.79c08235.chunk.css": "/scan-shit-coin/static/css/2.79c08235.chunk.css",
+    "static/js/2.289bde05.chunk.js": "/scan-shit-coin/static/js/2.289bde05.chunk.js",
+    "static/js/2.289bde05.chunk.js.map": "/scan-shit-coin/static/js/2.289bde05.chunk.js.map",
+    "static/js/3.7751c78b.chunk.js": "/scan-shit-coin/static/js/3.7751c78b.chunk.js",
+    "static/js/3.7751c78b.chunk.js.map": "/scan-shit-coin/static/js/3.7751c78b.chunk.js.map",
+    "index.html": "/scan-shit-coin/index.html",
+    "static/css/2.79c08235.chunk.css.map": "/scan-shit-coin/static/css/2.79c08235.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/scan-shit-coin/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.289bde05.chunk.js.LICENSE.txt": "/scan-shit-coin/static/js/2.289bde05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4f15d03.js",
+    "static/css/2.79c08235.chunk.css",
+    "static/js/2.289bde05.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8f5bba9f.chunk.js"
+  ]
+}
